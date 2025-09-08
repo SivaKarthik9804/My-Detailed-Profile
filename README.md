@@ -29,6 +29,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
+  <img src="https://dl.flathub.org/media/com/github/corna.Vivado/07ad2cd5a0a53383dce2081f799f9726/icons/128x128@2/com.github.corna.Vivado.png"
+       alt="Xilinx Vivado" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
