@@ -1,7 +1,7 @@
-## Hi 👋, I'm Siva Karthik  
-🔬 I'm interested in **Electronics & Communication**  
-📖 I'm currently learning **Electronics & Communication Engineering**  
-🤝 I'm looking to collaborate on **VLSI Projects**  
+Hi 👋, I'm Siva Karthik  
+🔬 I'm interested in Electronics & Communication
+📖 I'm currently learning ASIC Design Verification 
+🤝 I'm looking to collaborate on VLSI Projects
 
 <h1 align="center">Hi 👋, I'm Siva Karthik</h1>
 <h3 align="center">Electronics & Communication Engineering Student | VLSI & FPGA Enthusiast | Future Innovator</h3>
