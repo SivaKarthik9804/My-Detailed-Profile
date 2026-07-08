@@ -14,7 +14,7 @@ Currently building practical RTL and Verification projects while strengthening m
 
 ## 🚀 About Me
 
-- 🎓 Final Year Electronics & Communication Engineering Student
+- 🎓 Graduated Electronics & Communication Engineering Student
 - 💻 Currently learning **ASIC Design Verification**
 - ⚡ Strong interest in **RTL Design, Digital Logic & Verification**
 - 🔬 Exploring **SystemVerilog, UVM, FPGA and ASIC Design Flow**
